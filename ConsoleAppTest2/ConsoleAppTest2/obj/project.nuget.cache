@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPmM6xesOZDg8SUSJQH6TG1MKzzd9smDT98YfDC9yZ/o+Hr35gj31sDsXHi58L9Y+KaTZIw9VlgOq9mh3qAcKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shanc\\source\\repos\\sh-instructor\\MyRepoTest\\ConsoleAppTest2\\ConsoleAppTest2\\ConsoleAppTest2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shanc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
